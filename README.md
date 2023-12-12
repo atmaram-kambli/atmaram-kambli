@@ -1,28 +1,76 @@
-<h1 align="center">Hi 👋, I'm Atmaram Kambli</h1>
-<h3 align="center">A passionate Computer Engineering Student from India</h3>
+# Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atmaram-kambli&label=Profile%20views&color=0e75b6&style=flat" alt="atmaram-kambli" /> </p>
+**I'm Atmaram Kambli**, a passionate Computer Engineering Student from India. Welcome to my GitHub profile! 🚀
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atmaram-kambli" alt="atmaram-kambli" /></a> </p>
+## 💫 About Me
 
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on React.
+- 🌱 I’m always learning and exploring new technologies.
+- 💬 Ask me about JavaScipt, WebDev, Stock Market💸.
+- 📫 How to reach me: atmaramkambli22@gmail.com.
 
-- 💬 Ask me about **JavaScript, React**
+## 💻 Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atmaramkambli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atmaramkambli" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atmaram-kambli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atmaram-kambli" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kambli_atmaram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kambli_atmaram" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atmaram_kambli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atmaram_kambli" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/atmaram_kambli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atmaram_kambli" height="30" width="40" /></a>
-</p>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## ✅ Work Experiences
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atmaram-kambli&show_icons=true&locale=en&layout=compact" alt="atmaram-kambli" /></p>
+### Open Source Contributor - Hacktoberfest
+- **Organization:** [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- **Role:** Open Source Contributor
+- **Description:** Contributed to various open source projects during Hacktoberfest, collaborating with the global open source community and enhancing coding skills.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atmaram-kambli&show_icons=true&locale=en" alt="atmaram-kambli" /></p>
+### Internship - Oasis Infobyte
+- **Company:** Oasis Infobyte
+- **Role:** Remote Intern
+- **Duration:** 10/12/2023 to present
+- **Description:** Working remotely as an intern at Oasis Infobyte, gaining hands-on experience in HTML, CSS, JS, etc., building some projects as tasks of internship and acquiring valuable insights to enhance my skills in developement .
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atmaram-kambli&" alt="atmaram-kambli" /></p>
+## 📚 Featured Projects
+
+1. [NewsMania](https://github.com/atmaram-kambli/news-app): A React based Web Application that fetches data from a NEWS API and displays news articles based on categories.
+2. [iNotebook](https://github.com/atmaram-kambli/iNotebook): A web application to save and retrive notes. Used technologies - Reactjs, nodejs, mongodb.
+3. [TextEditor](null): A TextEditor is text manipulation web app used to modify and manipute the string of text.
+4. [Check out my GitHub Repos](https://github.com/atmaram-kambli?tab=repositories): More than 50+ coding challenges from platforms like FreeCodeCamp, JavaScript30, etc.
+
+## 🤝 Let's Connect
+
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atmaram-kambli/)
+- Twitter: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AtmaramKambli)
+
+<!-- Personal WebSite: [![Personal Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=firefox-browser&logoColor=white)](https://yourblog.com) -->
+
+## 🪲 Coding Profiles
+
+Connect with me on other coding platforms...
+
+- LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/atmaram_kambli/)
+- GeeksForGeeks: [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/atmaram_kambli)
+- CodeChef: [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/kambli_atmaram)
+
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=atmaram-kambli&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+## 📊 GitHub Stats:
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=atmaram-kambli&show_icons=true&locale=en&layout=compact&theme=dark) </br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atmaram-kambli&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark) </br>
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=atmaram-kambli&theme=dark)
+
+--- 
+![views](https://komarev.com/ghpvc/?username=atmaram-kambli&label=Profile%20views&color=0e75b6&style=flat) 
+
+---
+Feel free to explore my repositories and don't hesitate to reach out! 🌟
