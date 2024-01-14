@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on React.
 - 🌱 I’m always learning and exploring new technologies.
 - 💬 Ask me about JavaScipt, WebDev, Stock Market💸.
-- 📫 How to reach me: atmaramkambli22@gmail.com.
+- 📫 How to reach me: atmaram.work22@gmail.com.
 
 ## 💻 Technologies & Tools
 
@@ -30,11 +30,11 @@
 - **Role:** Open Source Contributor
 - **Description:** Contributed to various open source projects during Hacktoberfest, collaborating with the global open source community and enhancing coding skills.
 
-### Internship - Oasis Infobyte
-- **Company:** Oasis Infobyte
-- **Role:** Remote Intern
-- **Duration:** 10/12/2023 to present
-- **Description:** Working remotely as an intern at Oasis Infobyte, gaining hands-on experience in HTML, CSS, JS, etc., building some projects as tasks of internship and acquiring valuable insights to enhance my skills in developement .
+### Open Source Contributor - SWOC
+- **Organization:** [Social Wintor of Code](https://www.socialwinterofcode.com/) 
+- **Role:** Open Source Contributor
+- **Duration:** 20/12/2023 to present
+- **Description:** Working on open source projects gives hands-on experience in HTML, CSS, JS, etc., building some features acquiring valuable insights to enhance my skills in developement .
 
 ## 📚 Featured Projects
 
@@ -47,6 +47,10 @@
 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atmaram-kambli/)
 - Twitter: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AtmaramKambli)
+- PortFolio: <a href="https://atmaram-kambli.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Internet%20Explorer&logoColor=white" alt="Portfolio" />
+</a>
+
 
 <!-- Personal WebSite: [![Personal Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=firefox-browser&logoColor=white)](https://yourblog.com) -->
 
