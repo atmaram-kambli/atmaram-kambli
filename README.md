@@ -4,16 +4,17 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on React.
+- 🔭 I’m currently working on React and exploring MERN statck.
 - 🌱 I’m always learning and exploring new technologies.
 - 💬 Ask me about JavaScipt, WebDev, Stock Market💸.
-- 📫 How to reach me: atmaram.work22@gmail.com.
+- 📫 How to reach me: atmaram.work24@gmail.com.
 
 ## 💻 Technologies & Tools
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
