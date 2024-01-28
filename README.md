@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-**I'm Atmaram Kambli**, a passionate Computer Engineering Student from India. Welcome to my GitHub profile! 🚀
+**I'm Atmaram Kambli**, a geeky Computer Engineering Student from India. Welcome to my GitHub profile! 🚀
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on React and exploring MERN statck.
+- 🔭 I’m currently working on React and exploring MERN stack.
 - 🌱 I’m always learning and exploring new technologies.
 - 💬 Ask me about JavaScipt, WebDev, Stock Market💸.
 - 📫 How to reach me: atmaram.work24@gmail.com.
