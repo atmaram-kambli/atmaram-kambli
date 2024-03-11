@@ -16,8 +16,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
@@ -40,9 +43,10 @@
 ## 📚 Featured Projects
 
 1. [NewsMania](https://github.com/atmaram-kambli/news-app): A React based Web Application that fetches data from a NEWS API and displays news articles based on categories.
-2. [iNotebook](https://github.com/atmaram-kambli/iNotebook): A web application to save and retrive notes. Used technologies - Reactjs, nodejs, mongodb.
-3. [TextEditor](null): A TextEditor is text manipulation web app used to modify and manipute the string of text.
-4. [Check out my GitHub Repos](https://github.com/atmaram-kambli?tab=repositories): More than 50+ coding challenges from platforms like FreeCodeCamp, JavaScript30, etc.
+2. [iNotebook](https://github.com/atmaram-kambli/iNotebook-App): A web application to save and retrive notes. Used technologies - Reactjs, nodejs, expressjs, mongoose.
+3. [TextEditor](https://github.com/atmaram-kambli/textUtils): A TextEditor is text manipulation web app used to modify and manipute the string of text.
+4. [BLOGGOSITE](https://github.com/atmaram-kambli/blogosite): A BlogoSite is the blogging website where you can add, update, delete blogs.
+5. [Check out my GitHub Repos](https://github.com/atmaram-kambli?tab=repositories): More than 50+ coding challenges from platforms like FreeCodeCamp, JavaScript30, etc.
 
 ## 🤝 Let's Connect
 
