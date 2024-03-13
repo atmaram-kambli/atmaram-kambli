@@ -27,19 +27,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
 
-## ✅ Work Experiences
-
-### Open Source Contributor - Hacktoberfest
-- **Organization:** [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-- **Role:** Open Source Contributor
-- **Description:** Contributed to various open source projects during Hacktoberfest, collaborating with the global open source community and enhancing coding skills.
-
-### Open Source Contributor - SWOC
-- **Organization:** [Social Wintor of Code](https://www.socialwinterofcode.com/) 
-- **Role:** Open Source Contributor
-- **Duration:** 20/12/2023 to present
-- **Description:** Working on open source projects gives hands-on experience in HTML, CSS, JS, etc., building some features acquiring valuable insights to enhance my skills in developement .
-
 ## 📚 Featured Projects
 
 1. [NewsMania](https://github.com/atmaram-kambli/news-app): A React based Web Application that fetches data from a NEWS API and displays news articles based on categories.
