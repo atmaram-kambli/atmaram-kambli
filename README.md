@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on React and exploring MERN stack.
 - 🌱 I’m always learning and exploring new technologies.
 - 💬 Ask me about JavaScipt, WebDev, Stock Market💸.
+- 🖱️ Interested in exploring new opportunities.
 - 📫 How to reach me: atmaram.work24@gmail.com.
 
 ## 💻 Technologies & Tools
@@ -29,7 +30,7 @@
 
 ## 📚 Featured Projects
 
-1. [NewsMania](https://github.com/atmaram-kambli/news-app): A React based Web Application that fetches data from a NEWS API and displays news articles based on categories.
+1. [NewsMania](https://github.com/atmaram-kambli/news-app): A React-based Web Application fetches data from a NEWS API and displays news articles based on categories.
 2. [iNotebook](https://github.com/atmaram-kambli/iNotebook-App): A web application to save and retrive notes. Used technologies - Reactjs, nodejs, expressjs, mongoose.
 3. [TextEditor](https://github.com/atmaram-kambli/textUtils): A TextEditor is text manipulation web app used to modify and manipute the string of text.
 4. [BLOGGOSITE](https://github.com/atmaram-kambli/blogosite): A BlogoSite is the blogging website where you can add, update, delete blogs.
