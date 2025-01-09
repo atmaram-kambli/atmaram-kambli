@@ -27,14 +27,22 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 
 ## 📚 Featured Projects
 
-1. [NewsMania](https://github.com/atmaram-kambli/news-app): A React-based Web Application fetches data from a NEWS API and displays news articles based on categories.
-2. [iNotebook](https://github.com/atmaram-kambli/iNotebook-App): A web application to save and retrive notes. Used technologies - Reactjs, nodejs, expressjs, mongoose.
-3. [TextEditor](https://github.com/atmaram-kambli/textUtils): A TextEditor is text manipulation web app used to modify and manipute the string of text.
-4. [BLOGGOSITE](https://github.com/atmaram-kambli/blogosite): A BlogoSite is the blogging website where you can add, update, delete blogs.
-5. [Check out my GitHub Repos](https://github.com/atmaram-kambli?tab=repositories): More than 50+ coding challenges from platforms like FreeCodeCamp, JavaScript30, etc.
+1. [Node Server Setup (NPM Package)](https://github.com/atmaram-kambli/node-server-setup-npm-package):  A npm package offering a pre-configured Node.js server structure
+7. [AI Text Summarizer and Text Translator App](https://github.com/atmaram-kambli/ai-text-summarizer-and-text-translator): It allows users to summarize large chunks of text and translate them into different languages.
+3. [iNotebook](https://github.com/atmaram-kambli/iNotebook-App): A web application to save and retrive notes. Used technologies - Reactjs, nodejs, expressjs, mongoose.
+4. [AquaScribe](https://github.com/atmaram-kambli/AquaScribe): It uses IoT sensors and ML algorithms, predicting irrigation needs and optimizing water usage.
+5. [TextEditor](https://github.com/atmaram-kambli/textUtils): A TextEditor is text manipulation web app used to modify and manipute the string of text.
+6. [Sorting Visualizer](https://github.com/atmaram-kambli/sorting-visualizer): It visualizes various sorting algorithms (like Bubble Sort, Quick Sort, Merge Sort, etc.).
+2. [NewsMania](https://github.com/atmaram-kambli/news-app): A React-based Web Application fetches data from a NEWS API and displays news articles based on categories.
+8. [BLOGGOSITE](https://github.com/atmaram-kambli/blogosite): A BlogoSite is the blogging website where you can add, update, delete blogs.
+9. [Check out my GitHub Repos](https://github.com/atmaram-kambli?tab=repositories): More than 50+ coding challenges from platforms like FreeCodeCamp, JavaScript30, etc.
 
 ## 🤝 Let's Connect
 
