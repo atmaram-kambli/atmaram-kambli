@@ -35,12 +35,12 @@
 ## 📚 Featured Projects
 
 1. [Node Server Setup (NPM Package)](https://github.com/atmaram-kambli/node-server-setup-npm-package):  A npm package offering a pre-configured Node.js server structure
-7. [AI Text Summarizer and Text Translator App](https://github.com/atmaram-kambli/ai-text-summarizer-and-text-translator): It allows users to summarize large chunks of text and translate them into different languages.
-3. [iNotebook](https://github.com/atmaram-kambli/iNotebook-App): A web application to save and retrive notes. Used technologies - Reactjs, nodejs, expressjs, mongoose.
-4. [AquaScribe](https://github.com/atmaram-kambli/AquaScribe): It uses IoT sensors and ML algorithms, predicting irrigation needs and optimizing water usage.
-5. [TextEditor](https://github.com/atmaram-kambli/textUtils): A TextEditor is text manipulation web app used to modify and manipute the string of text.
-6. [Sorting Visualizer](https://github.com/atmaram-kambli/sorting-visualizer): It visualizes various sorting algorithms (like Bubble Sort, Quick Sort, Merge Sort, etc.).
-2. [NewsMania](https://github.com/atmaram-kambli/news-app): A React-based Web Application fetches data from a NEWS API and displays news articles based on categories.
+2. [iNotebook](https://github.com/atmaram-kambli/iNotebook-App): A web application to save and retrive notes. Used technologies - Reactjs, nodejs, expressjs, mongoose.
+3. [AquaScribe](https://github.com/atmaram-kambli/AquaScribe): It uses IoT sensors and ML algorithms, predicting irrigation needs and optimizing water usage.
+4. [TextEditor](https://github.com/atmaram-kambli/textUtils): A TextEditor is text manipulation web app used to modify and manipute the string of text.
+5. [Sorting Visualizer](https://github.com/atmaram-kambli/sorting-visualizer): It visualizes various sorting algorithms (like Bubble Sort, Quick Sort, Merge Sort, etc.).
+6. [AI Text Summarizer and Text Translator App](https://github.com/atmaram-kambli/ai-text-summarizer-and-text-translator): It allows users to summarize large chunks of text and translate them into different languages.
+7. [NewsMania](https://github.com/atmaram-kambli/news-app): A React-based Web Application fetches data from a NEWS API and displays news articles based on categories.
 8. [BLOGGOSITE](https://github.com/atmaram-kambli/blogosite): A BlogoSite is the blogging website where you can add, update, delete blogs.
 9. [Check out my GitHub Repos](https://github.com/atmaram-kambli?tab=repositories): More than 50+ coding challenges from platforms like FreeCodeCamp, JavaScript30, etc.
 
